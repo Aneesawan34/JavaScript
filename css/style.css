@@ -1,0 +1,59 @@
+.mainbody
+{
+    width: 100%;
+    background-image: url(".././images/./stock-vector-math-linear-symbol-vector-bright-round-school-education-mathematical-symbol-or-circle-background-450709579.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: wheat;
+}
+.additionbody
+{
+    width: 100%;
+    background-image: url(".././images/./download (2).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.subtractionbody
+{
+    width: 100%;
+    background-image: url(".././images/./download (1).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.multiplicationbody
+{
+    width: 100%;
+    background-image: url(".././images/./images.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divisionbody
+{
+    width: 100%;
+    background-image: url(".././images/./images (1).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mainheading
+{
+    text-align: center;
+    font-family: cursive;
+    /* font-style: italic; */
+}
+.subheading
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+div
+{
+    text-align: center;
+}
